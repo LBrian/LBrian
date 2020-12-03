@@ -1,4 +1,4 @@
-### Brian Yueh-peng Liu 👋 [![HitCount](https://hits.dwyl.com/LBrian/LBrian.svg)](http://hits.dwyl.com/LBrian/LBrian)
+### Brian Yueh-peng Liu 👋 [![HitCount](https://hits.dwyl.com/LBrian/postcss-class-rename.svg)](http://hits.dwyl.com/LBrian/postcss-class-rename)
 
 - 🔭 I’m currently working on '?'
 - 🌱 I’m currently learning 'Anything frontned but mainly JS'
