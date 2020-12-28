@@ -1,12 +1,12 @@
-### Brian Yueh-peng Liu 👋 [![HitCount](https://hits.dwyl.com/LBrian/postcss-class-rename.svg)](http://hits.dwyl.com/LBrian/postcss-class-rename)
+[Brian Yueh-peng Liu](https://brianypliu.web.app/) 👋 
 
-- 🔭 I’m currently working on '?'
-- 🌱 I’m currently learning 'Anything frontned but mainly JS'
-- 🤔 I’m looking for help with 'becoming active OpenSource contributor'
-- 💬 Ask me about 'working at different countries'
+- 🔭 I’m a SNR FE (React) developer
+- 🌱 My career chronicle SD -> SDET -> Back-end -> Front-end 
+- 🤔 Obsessed and curious about everything front-end and I love JS 
+- 💬 Hit me with any FE technologies, tips and fun stuffs
 
 
 ## Github Stats & Top Langs
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=LBrian&show_icons=true&theme=vue-dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBrian&hide=html,css&layout=compact&theme=vue-dark)](https://github.com/LBrian/LBrian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBrian&layout=compact&hide=perl,objective-c&langs_count=10&theme=vue-dark)](https://github.com/LBrian/LBrian)
