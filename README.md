@@ -1,4 +1,4 @@
-[Brian Yueh-peng Liu](https://brianypliu.web.app/) 👋 
+[Brian Yueh-peng Liu](https://brianypliu.com/) 👋 
 
 - 🔭 I’m a SNR FE (React) developer
 - 🌱 My career chronicle SD -> SDET -> Back-end -> Front-end 
