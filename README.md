@@ -1,8 +1,8 @@
 [Brian Yueh-peng Liu](https://brianypliu.com/) 👋 
 
-- 🔭 I’m a SNR FE (React) developer
-- 🌱 My career chronicle SD -> SDET -> Back-end -> Front-end 
-- 🤔 Obsessed and curious about everything front-end and I love JS 
+- 🔭 I’m a Tech Lead/Lead Engineer/Senior Frontend Engineer
+- 🌱 My career chronicle SD -> SDET -> Back-end -> Front-end -> Lead
+- 💙 I love web technologies and Javascript 
 - 💬 Hit me with any FE technologies, tips and fun stuffs
 
 
